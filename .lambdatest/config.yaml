@@ -1,6 +1,6 @@
 project_id: "01KQ6Q7816CSQ8Q4FY95BGW5C9"
 folder_id: "01M1BW54CYQ5JZ59MWP05XJNV1"
-assignee: asthad
+assignee: 2938051
 configuration_name: "Chrome on Windows"
 test_url: "https://asthad-ops.github.io/testing/"
 scenario_limit: 3
