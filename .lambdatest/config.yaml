@@ -1,6 +1,6 @@
-project_id: "YOUR_PROJECT_ID"
-folder_id: "YOUR_FOLDER_ID"
-assignee: YOUR_USER_ID
+project_id: "01KQ6Q7816CSQ8Q4FY95BGW5C9"
+folder_id: "01M1BW54CYQ5JZ59MWP05XJNV1"
+assignee: asthad
 configuration_name: "Chrome on Windows"
 test_url: "YOUR_DEPLOYED_APP_URL"
 scenario_limit: 3
